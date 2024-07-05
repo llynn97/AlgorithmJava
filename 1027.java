@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 //1027
 public class Algo83 {
     static int n;
-    static long[] dp;
+    static long[] d;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
